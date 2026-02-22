@@ -1,0 +1,166 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="Event_Management_System.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+
+    <%--CUSTOM CSS--%>
+    <link href="CSS/StyleSheet1.css" rel="stylesheet" />
+
+    <%--Bootstrap css--%>
+    <link href="Bootstrap/CSS/bootstrap.min.css" rel="stylesheet" />
+
+    <%--Font Awsome css --%>
+    <link href="FontAwsome/css/all.css" rel="stylesheet" />
+
+    <%--Data Table css--%>
+    <link href="DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+    <%--jquery--%>
+    <script src="Bootstrap/JS/jquery-3.2.1.slim.min.js"></script>
+
+    <%--popper--%>
+    <script src="Bootstrap/JS/popper.min.js"></script>
+
+    <%--bootstrapjs--%>
+    <script src="Bootstrap/JS/bootstrap.min.js"></script>
+
+    <%-- Animate --%>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" rel="stylesheet">
+
+    <%-- Review CSS --%>
+  <%--  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+    <link href="CustomerReview/owl.carousel.min.css" rel="stylesheet" />
+    <link href="CustomerReview/owl.theme.min.css" rel="stylesheet" />--%>
+
+
+
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+      <div>
+           <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top container-fluid ">
+            <a class="navbar-brand" href="#">
+                <img src="Images/logo.png" height="30px"/></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse"></div>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="Home.aspx">HOME <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">EXPLORE
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="lawn.aspx">Aamaraai Multipurpose lawn</a>
+                            <a class="dropdown-item" href="BreakfastCenter.aspx">Annapurna Breakfast Center</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Tourism.aspx">TOURISM</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Gallery.aspx">GALLERY</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="ContactUs.aspx">CONTACT US</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <ul class="navbar-nav ms-auto">
+                            <a href="BookOnline.aspx">
+                                <button class="btn btn-outline-success my-2 my-sm-0 ">BOOK ONLINE</button>
+
+                            </a>
+                        </ul>
+                    </li>
+
+
+
+                </ul>
+            </div>
+        </nav>
+
+
+          </div>
+
+        <%-- Footer --%>
+
+        <div class="container-fluid" style="background-color:#560405; color:White">
+            
+            
+             
+           
+
+            <div class="row pt-2">
+                <p class="text-center">
+                    All Rights Reserved.
+                </p>
+                <hr />
+            </div>
+            
+            <div class="row">
+                <p class="text-center">
+                    Designed By <span style="color: #f5ce42">Avadhut</span>  and <span style="color: #f5ce42">Gokul</span>
+                </p>
+
+            </div>
+
+             <div class="row">
+                <p class="text-center">
+                    <a href="AdminLogin.aspx" style=" color: "White"; text-decoration:"none";" > Admin Login </a>   
+                </p>
+
+            </div>
+
+        </div>
+
+
+    </form>
+
+   <%-- <script>
+
+        /* navbar js*/
+        const navEl = document.querySelector('.navbar');
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY >= 56) {
+                navEl.classList.add('navbar-scrolled');
+            }
+            else if (window.scrollY < 56) {
+                navEl.classList.remove('navbar-scrolled');
+            }
+        });
+
+        /*review js*/
+        $(document).ready(function () {
+            $("#testimonial-slider").owlCarousel({
+                items: 3,
+                itemsDesktop: [1000, 3],
+                itemsDesktopSmall: [980, 2],
+                itemsTablet: [768, 2],
+                itemsMobile: [650, 1],
+                pagination: true,
+                navigation: false,
+                slideSpeed: 1000,
+                autoPlay: true
+            });
+        });
+
+    </script>--%>
+</body>
+</html>

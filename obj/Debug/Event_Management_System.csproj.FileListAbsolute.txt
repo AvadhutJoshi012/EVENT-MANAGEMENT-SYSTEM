@@ -1,0 +1,177 @@
+E:\C sharp Programming\Major Project\Event_Management_System\bin\Event_Management_System.dll.config
+E:\C sharp Programming\Major Project\Event_Management_System\bin\Event_Management_System.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\Event_Management_System.pdb
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\csc.exe
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\csc.exe.config
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\csc.rsp
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\csi.exe
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\csi.exe.config
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\csi.rsp
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.AppContext.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Collections.Immutable.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Console.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Globalization.Calendars.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.IO.Compression.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.IO.FileSystem.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Net.Http.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Net.Sockets.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.ValueTuple.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Xml.XPath.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\vbc.exe
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\vbc.exe.config
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\vbc.rsp
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\VBCSCompiler.exe
+E:\C sharp Programming\Major Project\Event_Management_System\bin\roslyn\VBCSCompiler.exe.config
+E:\C sharp Programming\Major Project\Event_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C sharp Programming\Major Project\Event_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C sharp Programming\Major Project\Event_Management_System\obj\Debug\Event_Management_System.csproj.AssemblyReference.cache
+E:\C sharp Programming\Major Project\Event_Management_System\obj\Debug\Event_Management_System.csproj.CoreCompileInputs.cache
+E:\C sharp Programming\Major Project\Event_Management_System\obj\Debug\Event_Management_System.csproj.CopyComplete
+E:\C sharp Programming\Major Project\Event_Management_System\obj\Debug\Event_Management_System.dll
+E:\C sharp Programming\Major Project\Event_Management_System\obj\Debug\Event_Management_System.pdb
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\Event_Management_System.dll.config
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\Event_Management_System.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\Event_Management_System.pdb
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\csc.exe
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\csc.exe.config
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\csc.rsp
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\csi.exe
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\csi.exe.config
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\csi.rsp
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.AppContext.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Collections.Immutable.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Console.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Globalization.Calendars.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.IO.Compression.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.IO.FileSystem.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Net.Http.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Net.Sockets.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.ValueTuple.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Xml.XPath.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\vbc.exe
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\vbc.exe.config
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\vbc.rsp
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\VBCSCompiler.exe
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\roslyn\VBCSCompiler.exe.config
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\obj\Debug\Event_Management_System.csproj.AssemblyReference.cache
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\obj\Debug\Event_Management_System.csproj.CoreCompileInputs.cache
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\obj\Debug\Event_Management_System.csproj.CopyComplete
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\obj\Debug\Event_Management_System.dll
+D:\BCA Final Year Project\Event_Management_System\Event_Management_System\obj\Debug\Event_Management_System.pdb
+C:\Users\DELL\Desktop\Major_Project\bin\Event_Management_System.dll.config
+C:\Users\DELL\Desktop\Major_Project\bin\Event_Management_System.dll
+C:\Users\DELL\Desktop\Major_Project\bin\Event_Management_System.pdb
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Major_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Major_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Major_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Major_Project\obj\Debug\Event_Management_System.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Major_Project\obj\Debug\Event_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Major_Project\obj\Debug\Event_Management_System.csproj.CopyComplete
+C:\Users\DELL\Desktop\Major_Project\obj\Debug\Event_Management_System.dll
+C:\Users\DELL\Desktop\Major_Project\obj\Debug\Event_Management_System.pdb
